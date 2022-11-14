@@ -44,9 +44,13 @@ Naredbe za pokretanje.
 ```sh
 npm run build
 ```
+
 ```sh
-npm run star
+npm run start
 ```
+
 Ili pomoću biblioteke Nodemon (praktično za razvoj)
+
 ```sh
-npm run dev```
+npm run dev
+```

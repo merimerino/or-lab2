@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
-  "$id": "",
+  "$id": "https://github.com/merimerino/or-lab2/blob/master/schema.json",
   "type": "array",
   "title": "Licensed horses CRO",
   "description": "Popis licenciranih konja u Hrvatskoj",
